@@ -20,7 +20,7 @@
 
   <!--Registering the modules into de main container.-->
   <modules>
-    <module>microservice-gateway/microservice-gateway</module>
+    <module>microservice-gateway</module>
   </modules>
 
   <properties>

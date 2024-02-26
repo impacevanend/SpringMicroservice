@@ -21,6 +21,8 @@
   <!--Registering the modules into de main container.-->
   <modules>
     <module>microservice-gateway</module>
+    <module>microservice-eureka</module>
+    <module>microservice-config</module>
   </modules>
 
   <properties>
